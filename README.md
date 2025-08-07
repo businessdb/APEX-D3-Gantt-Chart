@@ -8,7 +8,7 @@ This APEX Region plug-in renders a responsive D3 Gantt chart in Oracle APEX. It 
 
 Demo:
 
-https://my.business-db.com/ords/r/apps/plugin
+https://business-db.com/gratis-oracle-apex-plugin
 
 Used Libraries:
 
@@ -52,4 +52,5 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
 HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+
 DEALINGS IN THE SOFTWARE.
