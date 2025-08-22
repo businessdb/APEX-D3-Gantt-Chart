@@ -27,9 +27,10 @@
             "plugin": {
                 "internalName": "BUSINESS.DB.APEX.D3.GANTT",
                 "type": "region",
-                "demo": "https://my.business-db.com/ords/r/apps/plugin",
+                "demo": "https://business-db.com/gratis-oracle-apex-plugin",
                 "previewImage": "https://github.com/businessdb/APEX-D3-Gantt-Chart/blob/main/screenshot.gif?raw=true"
             }
         }
     }
 }
+
